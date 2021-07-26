@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">List_to_do</string>
+    <string name="criar_tarefa">Criar tarefa</string>
+    <string name="create_task">Criar tarefa</string>
+    <string name="hour">HORA</string>
+    <string name="Date">DATA</string>
+    <string name="task_title">Orlando</string>
+    <string name="title_hint">TITULO</string>
+    <string name="tasks_tv">Tarefas de hoje</string>
+    <string name="new_task_fab">Nova Tarefa</string>
+    <string name="edit_popup">Editar</string>
+    <string name="delete_popup">Deletar</string>
+    <string name="u_dont_have_tasks">Sem tarefas!!</string>
+</resources>
